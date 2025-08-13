@@ -154,12 +154,4 @@ game Milad/
 
 ## 🕯️ In Memoriam
 
-<div align="center">
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5jZmIyaDdyaWVlM2Q1NXljZjJ0bnJoM2VxaTRwNHJyeTJqdXE0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qDKhQL9dMumz3kk/giphy.gif" alt="Candle flicker" width="120"/><br/>
-
-🕯️ **Light a candle for Milad** 🕯️
-
-</div>
-
 </div> 
